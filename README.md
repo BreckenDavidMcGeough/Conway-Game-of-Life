@@ -1,4 +1,4 @@
-Conway's Game of Life
+CSE220:Systems Programming - Conway's Game of Life
 ===
 
 This project is an implementation of John Horton Conway's Game of Life.
