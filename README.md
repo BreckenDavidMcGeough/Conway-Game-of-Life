@@ -1,6 +1,8 @@
 CSE220:Systems Programming - Conway's Game of Life
 ===
 
+Here is a link to the Wiki page for Conway's Game of Life: [link](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
+
 This project is an implementation of John Horton Conway's Game of Life.
 You should have received a detailed handout with requirements, guidance,
 and grading criteria.
